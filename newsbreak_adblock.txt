@@ -1,0 +1,12 @@
+##ins.adsbygoogle
+##div.gtravjk.gtravjk-5
+##div.header_ads
+pasadenanow.com##div[class^="pasad-content"]
+pasadenanow.com##div.pasad-after-content
+themeateater.com##div[campaign="newcustomer"]
+southfloridareporter.com##div.td-a-rec-id-content_inline
+detroitsportsnation.com##div.td-a-ad
+techspot.com##div[id^="insert-ad"]
+texastribune.org##.js-ad-unit
+arkansasbusiness.com##.ad-leaderboard
+outerbanksvoice.com##.mobile-ad-container
