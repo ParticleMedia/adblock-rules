@@ -1,3 +1,4 @@
+##amp-ad
 ##ins.adsbygoogle
 ##div.gtravjk.gtravjk-5
 ##div.header_ads
