@@ -11,3 +11,8 @@ techspot.com##div[id^="insert-ad"]
 texastribune.org##.js-ad-unit
 arkansasbusiness.com##.ad-leaderboard
 outerbanksvoice.com##.mobile-ad-container
+hastingstribune.com##img[alt="advertisement"]
+reporternewspapers.net##div.banner
+kvoe.com##header[id="sp-header"]
+kvoe.com##div[id="sp-title"]
+rock947.com##div[class*="leaderboard"]
